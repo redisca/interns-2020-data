@@ -94,7 +94,7 @@ module.exports = [
 {
   id: 15,
   name: "Cahir Dyffryn",
-  image: "cahir.jpg",
+  image: "dyffryn.jpg",
   parent: 5
 },
 {
@@ -136,7 +136,7 @@ module.exports = [
   id: 21,
   name: "Assire var Anahid",
   post: "Mage",
-  image: "assire.jpg",
+  image: "anahid.jpg",
   parent: 8
 },
 {
@@ -221,7 +221,7 @@ module.exports = [
   id: 33,
   name: "Vlodimir von Everec",
   post: "Noble",
-  image: "vlodimir.jpg",
+  image: "everec.jpg",
   parent: 26
 },
 {
