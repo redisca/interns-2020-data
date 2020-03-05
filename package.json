@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "input",
   "scripts": {
-    "prettier": "prettier \"*.js\" --ignore-path ./.prettierignore --write"
+    "prettier": "prettier \"*.js\" --write",
+    "prettier:check": "prettier --check \"*.js\""
   },
   "repository": "git@github.com:redisca/interns-2020-data.git",
   "author": "Ilia Lesik <ilialesik@gmail.com>",
