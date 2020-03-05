@@ -1,0 +1,15 @@
+{
+  "name": "interns-2020-data",
+  "version": "1.0.0",
+  "main": "input",
+  "scripts": {
+    "prettier": "prettier \"*.js\" --ignore-path ./.prettierignore --write"
+  },
+  "repository": "git@github.com:redisca/interns-2020-data.git",
+  "author": "Ilia Lesik <ilialesik@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
