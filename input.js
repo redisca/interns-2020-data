@@ -1,4 +1,12 @@
-module.exports = [
+var global = typeof global !== 'undefined' ?
+  global :
+  typeof self !== 'undefined' ?
+    self :
+    typeof window !== 'undefined' ?
+      window :
+      {};
+
+global.inputArray = [
   {
     id: 1,
     name: "Nilfgaard",
